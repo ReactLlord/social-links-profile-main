@@ -11,6 +11,7 @@ body {
     justify-content: center;
     background-color: hsl(0, 0%, 8%);
     height: 100vh;
+   
 }
 
 .card{
@@ -19,7 +20,7 @@ body {
     height:  70%;
     width: 50%;
   padding: 20px;
-
+  width: 370px;
   border-radius: 8px;
 }
 
@@ -61,10 +62,11 @@ p{
 .btn{
     background: hsl(0, 0%, 20%);
     color: hsl(0, 0%, 100%);
-    padding: 12px 20px;
+    padding: 12px 0px;
     margin: 10px;
     display: flex;
     justify-content: center;
     border-radius: 8px;
+    width: 350px;
     
 }
